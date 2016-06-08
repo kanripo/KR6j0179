@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:27:23.561159
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:29
 #+TITLE: 大方等大雲經請雨品第六十四
 #+PROPERTY: CBETA_ID T19n0992
 #+PROPERTY: ID KR6j0179
